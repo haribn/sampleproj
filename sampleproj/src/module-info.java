@@ -5,5 +5,5 @@
  *
  *
  */
-module sampleproj {hello team
+module sampleproj {hello team welcome
 }
